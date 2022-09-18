@@ -1,0 +1,28 @@
+	
+	
+name	"Meowsy"
+species	"cat"
+foods	
+likes	
+0	"tuna"
+1	"catnip"
+dislikes	
+0	"ham"
+1	"zucchini"
+1	
+name	"Barky"
+species	"dog"
+foods	
+likes	
+0	"bones"
+1	"carrots"
+dislikes	
+0	"tuna"
+2	
+name	"Purrpaws"
+species	"cat"
+foods	
+likes	
+0	"mice"
+dislikes	
+0	"cookies"
